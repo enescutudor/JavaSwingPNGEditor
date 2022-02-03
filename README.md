@@ -89,6 +89,7 @@ Tipurile de joburi implementate pentru acest proiect sunt urmatoarele:
 Selectarea tipului de job se face dintr-un meniu de tip dropdown, urmat de un formular de configurare a job-ului, acolo unde este cazul.
 <br>
 Afisarea job-urilor create, cu tot cu parametrii lor, in momentul deschiderii unui task, se face cu ajutorul Reflection API.
+
 ## Alte precizari
 Codul are drept target framework Java SDK 15.
 Interfata grafica a fost creata folosind designer-ul grafic disponibil in IntelliJ IDEA si Java Swing.
